@@ -1,5 +1,5 @@
 homepage: "https://www.webwinkelkeur.nl"
 documentation: "https://docs.webwinkelkeur.nl/gtm"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: ef1a63babfeb794874b07555902b6d27c765718d
     changeNotes: Initial Version
